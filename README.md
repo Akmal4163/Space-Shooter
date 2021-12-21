@@ -1,5 +1,7 @@
 # Space-Shooter
-Space shooter game using C++ and SFML
+Space shooter game using C++ and SFML based on youtube tutorials 
+: https://youtu.be/sWYpNIrBr6U
+
 
 How to build ?
 1. Install Visual Studio Community Edition
